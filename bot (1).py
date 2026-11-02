@@ -19,11 +19,11 @@ from urllib.parse import urljoin
 # ==========================================
 # Configuration (Token & Owner ID)
 # ==========================================
-TOKEN = "8457090419:AAFxzdgk2wCtHBtMnsanJyJQDQBZHb_9rPU"
+TOKEN = "9018984495:AAEeyCO-ownRWPXsFCTQtPfL59Rj8QIzti8"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
-OWNER_ID = 6410890381
+OWNER_ID = 8210850405
 BOT_USERNAME = ""
 DB_FILE = "bot_data.json"
 
